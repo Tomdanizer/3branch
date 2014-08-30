@@ -1,0 +1,243 @@
+@font-face { font-family: Quicksand; src: url('/assets/Quicksand_Book.otf'); } 
+#logo{
+    width: 100%;
+}
+#logo-header{
+margin: 5px;
+}
+.section-space {
+padding: 15px 15px 45px 15px;
+
+}
+#slide-news{
+
+background-image: url(http://3branchbrewing.com/wp/wp-content/uploads/2014/08/city-tower.jpg);
+}
+
+#slide-store{
+    background: #2f3238;
+}
+
+#slide-beer{
+    background-image: url(http://3branchbrewing.com/wp/wp-content/uploads/2014/08/unicorn-bottles.jpg);
+     /*background-size: cover;*/
+}
+
+#slide-blog{
+background-image: url(http://3branchbrewing.com/wp/wp-content/uploads/2014/08/beer-garden-drink.jpg);
+   /* background-image: url(http://3branchbrewing.com/wp/wp-content/uploads/2014/08/wood_fence.jpg);*/
+}
+
+
+#product{
+color: #eee;
+}
+#team{
+color: #eee;
+background: #2f3238;
+}
+
+#info{
+    color: #eee;
+background: #2f3238;
+}
+.navbar{
+    margin-bottom: 0;
+}
+body { padding-top: 71px; }
+
+
+
+.event-list h1{
+    color: #eee;
+}
+.event-list li{
+    list-style-type: none;
+
+}
+
+.event-list a{
+    display: block;
+    font-size: 16px;
+    color: #eee;
+    margin: 5px 0;
+    background-color: rgba(56, 56, 56, 0.85);
+    padding: 15px;
+}
+footer{
+    background-color: #25292c;
+    color: #EEE;
+}
+
+.team{
+    width: 300px;
+    height: 300px;
+}
+
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+height: 100%;
+width: 100%;
+}
+/*
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+*/
+
+.navbar-nav>li>a {
+padding: 25px 20px;
+}
+
+.nav a{
+font-size: 18px;
+font-family: Quicksand;
+}
+
+.nav .dropdown-menu a{
+font-size: 16px;
+font-family: Quicksand;
+}
+
+.navbar-nav>li>.dropdown-menu{
+background-color: #25292c;
+border-radius: 0;
+border: 1px solid #24282A;
+}
+
+.dropdown-menu>li>a {
+color: #AAA;
+
+}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+color: #EEE;
+text-decoration: none;
+background-color: #2f3238;
+}
+
+/*
+@font-face {
+  font-family: "Bauhaus-Light-Light";
+  src: url('images/Bauhaus1.ttf') format('truetype');
+}
+*/
+
+.header-text{
+font-size: 38px;
+/*font-family: "Quicksand";*/
+/* font-family: "Bauhaus-Light-Light"; */
+/* font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; */
+/* font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; */
+/* font-family: Futura, "Trebuchet MS", Arial, sans-serif; */
+/* font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; */
+}
+
+.head-picture{
+width: 100%;
+max-height: 300px;
+min-height: 300px;
+max-width: 300px;
+min-width: 300px;
+}
+.team-portrait{
+   /* margin: auto;
+    max-width: 300px;
+    min-width: 300px;*/
+background-color: #25292c;
+border: 1px solid #32373C;
+}
+
+.team-portrait-description{
+    padding: 15px;
+}
+
+.bcg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#contact_form textarea{
+    min-width: 100%;
+    resize: none;
+    min-height: 140px;
+}
+
+.navbar-default{
+    background-color: #25292c;
+    border-color: #24282A;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+color: #eee;
+background-color: #25292c;
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #AAA;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+color: #FFF;
+background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+color: #eee;
+background-color: #25292c;
+}
+
+.overflow{
+overflow: auto;
+}
+
+#beers .beer-style, #store_items .item, #people .team-portrait {
+  margin: 3px;
+}
+#beers .beer-style img, #store_items .item img, #people .team-portrait img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+/*
+@media (min-width: 1200px){
+html,body, #wrapper, .homeSlide, main, .homeSlide .section-space{
+height: 100%;
+}
+}
+
+@media (min-width: 992px){
+html,body, #wrapper, .homeSlide, main, .homeSlide .section-space{
+height: 100%;
+}
+}
+*/
+
+html,body, #wrapper, .homeSlide, main, .homeSlide .section-space{
+height: 100%;
+}
+
+body{
+font-family: Quicksand, sans-serif;
+background: #2f3238;
+color: #eee;
+}
+.beer-card, .people{
+padding: 15px 0;
+margin: 15px 0;
+background-color: #25292c;
+}
+.beer-card .entry-content, .people {
+  padding: 15px;
+}
+
+.beer-styles span.img {
+display: block;
+width: 200px;
+height: 200px;
+background-image: url(http://placehold.it/200x200);
+margin: auto;
+}

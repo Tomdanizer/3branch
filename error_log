@@ -1,0 +1,39 @@
+[13-Aug-2014 21:49:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/blankslate/page-home.php on line 5
+[13-Aug-2014 21:50:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/blankslate/page-home.php on line 5
+[13-Aug-2014 21:51:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/blankslate/page-home.php on line 5
+[13-Aug-2014 21:54:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/blankslate/page-20-2.php on line 5
+[19-Aug-2014 16:23:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/header.php on line 30
+[20-Aug-2014 20:41:51 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:43:04 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:43:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:43:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:44:51 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:48:06 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 22
+[20-Aug-2014 20:49:58 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 14
+[20-Aug-2014 20:51:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 14
+[20-Aug-2014 20:52:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 15
+[20-Aug-2014 20:54:09 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 14
+[20-Aug-2014 20:54:56 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-beer.php on line 14
+[21-Aug-2014 15:55:28 UTC] PHP Parse error:  syntax error, unexpected $end in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/people-entry.php on line 48
+[21-Aug-2014 15:57:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/people-entry.php on line 21
+[21-Aug-2014 19:57:31 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/footer.php on line 14
+[21-Aug-2014 19:57:31 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/footer.php on line 14
+[21-Aug-2014 18:00:53 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:00:56 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:01:01 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:01:04 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:01:05 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:01:05 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:01:06 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[21-Aug-2014 18:10:25 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[22-Aug-2014 04:51:42 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/ybranmmv/public_html/wp/wp-config.php on line 36
+[22-Aug-2014 14:09:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/functions.php on line 69
+[24-Aug-2014 23:18:15 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/header.php on line 43
+[25-Aug-2014 20:25:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 151
+[25-Aug-2014 21:09:22 UTC] PHP Warning:  Missing argument 1 for get_object_taxonomies(), called in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 116 and defined in /home/ybranmmv/public_html/wp/wp-includes/taxonomy.php on line 169
+[25-Aug-2014 21:09:22 UTC] PHP Warning:  Missing argument 1 for get_object_taxonomies(), called in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 116 and defined in /home/ybranmmv/public_html/wp/wp-includes/taxonomy.php on line 169
+[25-Aug-2014 21:09:22 UTC] PHP Warning:  Missing argument 1 for get_object_taxonomies(), called in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 116 and defined in /home/ybranmmv/public_html/wp/wp-includes/taxonomy.php on line 169
+[25-Aug-2014 21:09:22 UTC] PHP Warning:  Missing argument 1 for get_object_taxonomies(), called in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 116 and defined in /home/ybranmmv/public_html/wp/wp-includes/taxonomy.php on line 169
+[25-Aug-2014 21:09:22 UTC] PHP Warning:  Missing argument 1 for get_object_taxonomies(), called in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 116 and defined in /home/ybranmmv/public_html/wp/wp-includes/taxonomy.php on line 169
+[26-Aug-2014 20:13:38 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/people-entry.php on line 7
+[27-Aug-2014 19:12:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/ybranmmv/public_html/wp/wp-content/themes/threebranch/page-home.php on line 160

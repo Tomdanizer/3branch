@@ -1,0 +1,92 @@
+#logo{
+    width: 100%;
+}
+#logo-header{
+    width: 100%;
+    height: 50px;
+}
+#product{
+    background-image: url(../images/beer.jpg);
+     background-size: cover;
+}
+
+#product .container, #info .container, #team .container{
+    padding: 15px 15px 45px 15px;
+}
+
+#about p, #product li{
+    font-size: 20px;
+
+}
+#product li{
+    padding: 25px;
+    
+}
+#product{
+    color: #eee;
+}
+/*#info{
+    //background-color: #014B64;
+    color: #eee
+}*/
+.navbar{
+    margin-bottom: 0;
+}
+body { padding-top: 50px; }
+.carousel-caption {
+position: absolute;
+left: 15%;
+right: 15%;
+bottom: 20px;
+z-index: 10;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #fff;
+ text-align: left;
+text-shadow: 0 1px 2px rgba(0,0,0,.6);
+top: 0;
+/* left: 0; */
+}
+.event-list{
+    position: absolute;
+right: 15%;
+bottom: 20px;
+z-index: 15;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #fff;
+text-align: left;
+text-shadow: 0 1px 2px rgba(0,0,0,.6);
+top: 0;
+
+/* left: 0; */
+}
+.event-list li{
+    list-style-type: none;
+
+}
+.event-list a{
+    display:block;
+        font-size: 16px;
+    color: #eee;
+        margin: 5px 0;
+background: rgba(255, 255, 255, 0.48);
+padding: 15px;
+}
+footer{
+    background-color: #333;
+    color: #EEE;
+}
+.section{
+    margin-bottom: 35px;
+}
+.team{
+    width: 300px;
+    height: 300px;
+}
+
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+height: 100%;
+width: 100%;
+}
