@@ -1,0 +1,14 @@
+assets/
+cgi-bin/
+images/
+wp-admin/
+wp-includes/
+/*.php
+wp-content/ewww/
+wp-content/gallery/
+wp-content/plugins/
+
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wppa-depot/
+wp-content/wppa-pl/
