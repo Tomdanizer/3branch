@@ -27,20 +27,20 @@ var threebranch = (function (){
         $('#beers').owlCarousel({
             loop:true,
             margin:10,
-            nav:true,
+            nav:false,
             responsiveClass:true,
             responsive:{
                 0:{
                     items:1,
-                    nav:true
+                    nav:false
                 },
                 600:{
                     items:3,
                     nav:false
                 },
                 1000:{
-                    items:5,
-                    nav:true,
+                    items:4,
+                    nav:false,
                     loop:false
                 }
             }
@@ -72,20 +72,20 @@ var threebranch = (function (){
         $('#store_items').owlCarousel({
             loop:true,
             margin:10,
-            nav:true,
+            nav:false,
             responsiveClass:true,
             responsive:{
                 0:{
                     items:1,
-                    nav:true
+                    nav:false
                 },
                 600:{
                     items:3,
                     nav:false
                 },
                 1000:{
-                    items:5,
-                    nav:true,
+                    items:3,
+                    nav:false,
                     loop:false
                 }
             }
