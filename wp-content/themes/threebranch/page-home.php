@@ -1,5 +1,13 @@
 <?php get_header(); ?>
+ <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" />
 
+ <link rel="stylesheet" type="text/css" href="/css/owl.theme.default.min.css" />
+
+ <link rel="stylesheet" type="text/css" href="/css/owl.transitions.css" />
+
+<link rel="stylesheet" type="text/css" href="/css/animate.css" />
+
+<link rel="stylesheet" type="text/css" href="/css/jquery.fullPage.css" />
 <main id="slides">
 
     <section id="slide-beer" class="homeSlide section bcg">
@@ -312,6 +320,8 @@ echo do_shortcode('[ik_fb_feed]');
 
             <div id="contact" class="section-space vertical-center">
 
+
+
                     <div class="container">
 
                         <div class="row">
@@ -323,9 +333,13 @@ echo do_shortcode('[ik_fb_feed]');
                         <div class="row text-center">
 
                             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                <form class="contact-form" action="" method="POST" role="form">
-                                
-                                    <div class="form-group text-left">
+
+                                <div class="contact-form" >
+                                                               <?php
+echo do_shortcode('[contact-form-7 id="25" title="Contact form 1"]');
+
+ ?>
+                                    <!-- <div class="form-group text-left">
                                         <label for="name">Name</label>
                                         <input type="text" class="form-control" id="name" placeholder="Your Name">
                                         <label for="email">Email</label>
@@ -333,8 +347,8 @@ echo do_shortcode('[ik_fb_feed]');
                                         <label for="message">Message</label>
                                         <textarea class="form-control" id="message" placeholder="Your Message" rows="6"></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-primary">Submit</button>
-                                </form>
+                                    <button type="submit" class="btn btn-primary">Submit</button> -->
+                                </div>
                             </div>
                             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                 <h4>Email</h4>
@@ -353,4 +367,4 @@ echo do_shortcode('[ik_fb_feed]');
             </div><!-- end section -->
 
     </section>
-<?php get_footer(); ?>
+ <?php get_template_part( "footer-home" ); ?> 

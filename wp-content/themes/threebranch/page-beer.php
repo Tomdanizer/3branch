@@ -4,7 +4,7 @@
 
 
 
-            <div id="content" class="section">
+            <div id="content" class="content-container">
 
               <div class="container-fluid">
 
@@ -20,8 +20,9 @@
 
                                  if ( !empty( $terms ) && !is_wp_error( $terms ) ) : foreach ( $terms as $term ) : ?>
                                          <?php//   print_r($term) ?>
-                                          <div class="row">
-                                         <p class="store-text text-center"><?php echo $term->name; ?></p>
+                                          <div class="row beer-style-row">
+                                      
+                                        <h1><?php echo $term->name; ?></h1>
                                       
 
                                         <?php
@@ -166,7 +167,8 @@
                                                             </div>
 
                                                         </div>
-                                                  </div>        
+                                                     
+                                                  </div>        <!--end row-->
                                                 
                                                 <?php endwhile;
 
@@ -193,4 +195,6 @@
 
 
 
-<?php get_footer(); ?>
+    <?php get_footer(); ?>
+ <?php get_template_part( "footer-scripts" ); ?> 
+  <?php get_template_part( "footer-close" ); ?> 

@@ -496,3 +496,45 @@ function custom_taxonomy() {
 
 add_action( 'init', 'custom_taxonomy', 0 );
 add_theme_support( 'post-thumbnails' ); 
+
+// remove woocommerce scripts on unnecessary pages
+function woocommerce_de_script() {
+    if (function_exists( 'is_woocommerce' )) {
+     if (!is_woocommerce() && !is_cart() && !is_checkout() && !is_account_page() ) { // if we're not on a Woocommerce page, dequeue all of these scripts
+    	wp_dequeue_script('wc-add-to-cart');
+    	wp_dequeue_script('jquery-blockui');
+    	wp_dequeue_script('jquery-placeholder');
+    	wp_dequeue_script('woocommerce');
+    	wp_dequeue_script('jquery-cookie');
+    	wp_dequeue_script('wc-cart-fragments');
+      }
+    }
+}
+add_action( 'wp_print_scripts', 'woocommerce_de_script', 100 );
+
+add_action( 'wp_enqueue_scripts', 'remove_woocommerce_generator', 99 );
+function remove_woocommerce_generator() {
+    if (function_exists( 'is_woocommerce' )) {
+	if (!is_woocommerce()) { // if we're not on a woo page, remove the generator tag
+		remove_action( 'wp_head', array( $GLOBALS['woocommerce'], 'generator' ) );
+	}
+    }
+}
+
+// remove woocommerce styles, then add woo styles back in on woo-related pages
+define( 'WOOCOMMERCE_USE_CSS', false ); // completely removes all woo styles
+function child_manage_woocommerce_css(){
+    if (function_exists( 'is_woocommerce' )) {
+	if (is_woocommerce()) { // this adds the styles back on woocommerce pages. If you're using a custom script, you could remove these and enter in the path to your own CSS file (if different from your basic style.css file)
+		wp_register_style( 'woocommerce-layout', plugins_url().'/woocommerce/assets/css/woocommerce-layout.css' );
+		wp_register_style( 'woocommerce-smallscreen', plugins_url().'/woocommerce/assets/css/woocommerce-smallscreen.css' );
+		wp_register_style( 'woocommerce-general', plugins_url().'/woocommerce/assets/css/woocommerce.css' );
+		if ( class_exists( 'woocommerce' ) ) {
+			wp_enqueue_style( 'woocommerce-layout' );
+			if (wp_is_mobile()) { wp_enqueue_style( 'woocommerce-smallscreen' ); }
+			wp_enqueue_style( 'woocommerce-general' );
+		}
+	}
+    }
+}
+add_action( 'wp_enqueue_scripts', 'child_manage_woocommerce_css' );

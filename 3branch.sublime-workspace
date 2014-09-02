@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"vert",
+				"vertical-center"
+			],
+			[
+				"bs3f",
+				"bs3-form	bs3-form"
+			],
+			[
+				"bs3",
+				"bs3-col:6	bs3-col-6"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bs3-co",
+				"bs3-col:3	bs3-col-3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/plugins/wp-embed-facebook/templates/classic/page.php",
+			"settings":
+			{
+				"buffer_size": 2817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/page-beer.php",
+			"settings":
+			{
+				"buffer_size": 7773,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/style.css",
+			"settings":
+			{
+				"buffer_size": 6614,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/page-blog.php",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/entry.php",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/entry-meta.php",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/page-team.php",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/functions.php",
+			"settings":
+			{
+				"buffer_size": 11126,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/footer.php",
+			"settings":
+			{
+				"buffer_size": 2030,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/threebranch/page-home.php",
+			"settings":
+			{
+				"buffer_size": 11732,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"gitpu",
+				"Git: Push Current Branch"
+			],
+			[
+				"t",
+				"Tidy PHP"
+			],
+			[
+				"td",
+				"Tidy PHP"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/page-about.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/js/index.js",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/footer.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/footer-home.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/page-home.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/header.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/page-team.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/page-blog.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/page.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/footer-close.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/wp-content/themes/threebranch/footer-scripts.php",
+		"/C/Users/Dan/Documents/Websites/3brancbrewing.dev/.gitignore",
+		"/C/Users/Dan/Dropbox/3branch/javascript/index.js",
+		"/C/Users/Dan/Dropbox/3branch/pagebackup.html",
+		"/C/Users/Dan/Desktop/index.js",
+		"/C/Users/Dan/Dropbox/3branch/index.html",
+		"/C/Users/Dan/Dropbox/3branch/owl/demos/scaleup.html",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding: 15px;",
+			".section",
+			"beer-style",
+			"event",
+			"events",
+			"event",
+			"#fp-nav li .active span, .fp-slidesNav .active span",
+			"#fp-nav li .active span, .fp-slidesNav .active span ",
+			"#fp-nav li .active span, .fp-slidesNav .active span {",
+			"section",
+			"beer-style",
+			"cart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/plugins/wp-embed-facebook/templates/classic/page.php",
+					"settings":
+					{
+						"buffer_size": 2817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2817,
+								2817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/threebranch/page-beer.php",
+					"settings":
+					{
+						"buffer_size": 7773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7773,
+								7773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2775.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/threebranch/style.css",
+					"settings":
+					{
+						"buffer_size": 6614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1438,
+								1438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1474.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/threebranch/page-blog.php",
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/threebranch/entry.php",
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/threebranch/entry-meta.php",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/threebranch/page-team.php",
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/threebranch/functions.php",
+					"settings":
+					{
+						"buffer_size": 11126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11126,
+								11126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7264.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/threebranch/footer.php",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp-content/themes/threebranch/page-home.php",
+					"settings":
+					{
+						"buffer_size": 11732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9666,
+								9666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4695.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "wp-content/themes/threebranch"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "javascripts"
+		},
+		{
+			"path": "css"
+		}
+	]
+}

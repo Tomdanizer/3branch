@@ -22,7 +22,21 @@ margin: 5px;
 }
 
 
+.blog-entry{
+  background-color: #25292c;
+}
 
+.entry-title{
+  padding: 15px 15px 0 15px;
+}
+
+.entry-meta{
+  padding: 0 15px;
+}
+
+.entry-content{
+  padding: 15px;
+}
 #slide-news{
 
 
@@ -114,14 +128,15 @@ body { padding-top: 71px; }
 
 }
 
-.event-list li, .recent-posts li{
+.event-list li, .recent-posts li, .pagenav{
 
     list-style-type: none;
 
-
-
 }
 
+.footer-list li{
+  list-style-type: circle;
+}
 
 
 .recent-posts li{
@@ -346,7 +361,9 @@ border: 1px solid #32373C;
 
 }
 
-
+.content-container{
+  padding: 15px 0;
+}
 
 .bcg {
 
@@ -447,9 +464,15 @@ overflow: auto;
 }
 
 
+.beer-style-row{
+  padding: 15px 0;
+}
 
-
-
+.beer-style-row h1{
+  letter-spacing: .2em;
+  padding: 15px;
+  background-color: #40414B;
+}
 /*
 
 @media (min-width: 1200px){
